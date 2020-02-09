@@ -41,6 +41,15 @@ main article {
   right: 0;
 }
 
+main art_image {
+  margin: 0 auto 0 auto;
+  background-color: transparent;
+  padding: 8rem;
+  margin: 2rem 0 2rem 5rem;
+  border-radius: 25px;
+  right: 0;
+}
+
 main article p {
   padding-top: 1rem;
 }
